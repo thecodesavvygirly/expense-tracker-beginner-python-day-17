@@ -1,0 +1,17 @@
+[
+    [
+        {
+            "day": "2026-01-07"
+        },
+        {
+            "amount": "30",
+            "category": "food",
+            "description": "panipuri"
+        },
+        {
+            "amount": "200",
+            "category": "fun",
+            "description": "netflix"
+        }
+    ]
+]
